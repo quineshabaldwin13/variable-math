@@ -7,5 +7,5 @@ function calculate_age(dob) {
 
 
     console.log(calculate_age(new Date(2026, 8, 16)));
-    
+
 
